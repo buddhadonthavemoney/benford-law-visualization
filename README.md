@@ -15,6 +15,7 @@ Here the percentage of occurence of digits from 0 to 9 in the leading significan
 
 ## River
 Same thing is done with the length of worlds top 160 longest river.
+
 ![image](https://user-images.githubusercontent.com/52292457/219880432-635263c8-bbf4-42de-9a13-c12eca6fcd68.png)
 ![image](https://user-images.githubusercontent.com/52292457/219880449-e22685a0-3a15-4b46-be02-00baad00741f.png)
 
